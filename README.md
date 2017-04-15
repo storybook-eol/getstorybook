@@ -2,6 +2,12 @@
 
 Easiest way to add [Storybook](https://github.com/kadirahq/react-storybook) support to your project.
 
+--- 
+
+**This repo has been deprecated because it's now included in https://github.com/storybooks/storybook**
+
+---
+
 ![](docs/getstorybook.png)
 
 First install the storybook generator globally.
